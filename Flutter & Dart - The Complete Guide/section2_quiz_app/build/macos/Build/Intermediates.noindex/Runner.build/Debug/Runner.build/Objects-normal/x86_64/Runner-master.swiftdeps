@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "5f6276966725cd6fe42902d7a75f2a2085344d4269d5c47d3dd14c2ce36ff6d0"
+build_start_time: [1673094229, 622777938]
+build_end_time: [1673094241, 388885974]
+inputs:
+  ? "/Users/lee/Development/study-flutter/Flutter & Dart - The Complete Guide/section2_quiz_app/macos/Flutter/GeneratedPluginRegistrant.swift"
+  : [1673094208, 990491867]
+  "/Users/lee/Development/study-flutter/Flutter & Dart - The Complete Guide/section2_quiz_app/macos/Runner/AppDelegate.swift": [1671141058, 0]
+  "/Users/lee/Development/study-flutter/Flutter & Dart - The Complete Guide/section2_quiz_app/macos/Runner/MainFlutterWindow.swift": [1671141058, 0]
